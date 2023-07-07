@@ -20,7 +20,7 @@ Das Simulationsrepository ist [hier](https://github.com/PaulusElektrus/MA-Simula
 
 ## - Grafiken:
 
-Die Grafiken aus der Arbeit sind [hier](Grafiken Masterarbeit) zu finden.
+Die Grafiken aus der Arbeit sind [hier](https://github.com/PaulusElektrus/MA-Grafiken) zu finden.
 
 ## - Fotos: 
 
