@@ -24,5 +24,5 @@ Die Grafiken aus der Arbeit sind [hier](https://github.com/PaulusElektrus/MA-Gra
 
 ## - Fotos: 
 
-Fotos und Videos sind auf [Google Fotos](https://github.com/PaulusElektrus/MA-Simulation) zu finden.
+Fotos und Videos sind auf [Google Fotos](https://photos.app.goo.gl/niBtQrS3UdG2wSqm7) zu finden.
 
